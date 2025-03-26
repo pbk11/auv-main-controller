@@ -8,5 +8,3 @@
 * 使用sepic拓扑，实现高边隔离dcdc转换，输出12V，最大功率50W供给jetson orin使用。使用COT（恒定时间导通模式）mp2338，输出5V、3.3V，纹波小于40mV。
 
 * 集成基于RTL8305的板载交换机，完成线路阻抗匹配设计，单口最高通讯速率可达96Mbps。
-https://github.com/pbk11/auv-main-controller/blob/main/img/3D%20BOTTOM.png
-https://github.com/pbk11/auv-main-controller/blob/main/img/3D%20BOTTOM.png
