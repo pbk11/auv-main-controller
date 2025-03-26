@@ -8,5 +8,4 @@
 
 ●集成基于RTL8305的板载交换机，完成线路阻抗匹配设计，单口最高通讯速率可达96Mbps。48h+运行测试下，维持低丢包率。
 
-![image](https://github.com/user-attachments/assets/a9c93164-c26f-4d85-8fc2-a759e97f2cec)
-![image](https://github.com/user-attachments/assets/57448ebe-1fe1-4e9c-92a0-8fab9e932b96)
+![image](https://github.com/user-attachments/assets/a9c93164-c26f-4d85-8fc2-a759e97f2cec) ![image](https://github.com/user-attachments/assets/57448ebe-1fe1-4e9c-92a0-8fab9e932b96)
